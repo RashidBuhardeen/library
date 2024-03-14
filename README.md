@@ -12,15 +12,6 @@ The update function allows users to modify existing book records in the library 
 
 3. **Feedback**: After the update operation is completed, the system displays a message dialog confirming the successful update.
 
-## How to Use
-
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone`.
-
-2. **Set Up the Database**: Ensure you have MySQL installed, and import the provided database schema to set up the library database.
-
-3. **Compile and Run**: Compile the Java files and run the `student.java` file to launch the Library Management System application.
-
-4. **Interact with the UI**: Use the provided GUI to perform various operations such as adding, updating, and deleting book records.
 
 ## Technologies Used
 
