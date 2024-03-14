@@ -19,4 +19,6 @@ The update function allows users to modify existing book records in the library 
 - Swing (GUI Toolkit)
 - MySQL
 
+### This project was developed by **B.M Rashid** (Registration Number: KEG/IT/2021/F/0030)
+
 
